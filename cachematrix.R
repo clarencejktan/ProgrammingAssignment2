@@ -1,3 +1,9 @@
+## Comments from the student Jan 2021: I am retaking this R Programming course 
+## to refresh my skills after some time away from the data science field.
+## It is not possible to fork the same repo twice, so this repo contains my work
+## from when I first took the course. It is, nevertheless, my own work.
+## Thanks for reviewing it.
+
 ## This pair of functions help increase computational efficiency 
 ## when inverting a matrix by caching it. This avoids repeated
 ## calculation
